@@ -1,0 +1,16 @@
+client = None
+
+WINX = 100
+WINY = 100
+WINW = 400
+WINH = 280
+WIN16 = 498
+WIN9 = 280
+
+G = 5
+GL = 10
+
+SS = 25
+S = 75
+SL = 100
+SXL = 150
