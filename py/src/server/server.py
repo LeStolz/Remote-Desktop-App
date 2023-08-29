@@ -13,7 +13,7 @@ class ServerApp(ServerDesign):
     def on_btn_open_server_click(self):
         if gv.server is None:
             gv.server = QTcpServer(self)
-            gv.server.listen(QHostAddress("127.0.0.1"), 5656)
+            gv.server.listen(QHostAddress("0.0.0.0"), 5656)
             gv.server.newConnection.connect(self.on_new_connection)
             self.btn_open_server.setEnabled(False)
 
