@@ -1,6 +1,6 @@
 # Networking
 
-A limited remote desktop app using C#, python, and Chat GPT.
+A limited remote desktop app using python, ~~and Chat GPT~~.
 
 # Installation
 
@@ -8,6 +8,7 @@ A limited remote desktop app using C#, python, and Chat GPT.
 git clone https://github.com/LeStolz/Remote-Desktop-App.git
 cd remote-desktop-app
 python -m venv venv
+.\venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -34,11 +35,15 @@ python "main.py"
 
 # Todo
 
-1. Demo video with:
+## Demo video:
 
-- src\demo\demo.mp4 as reference,
-- narration,
-- screen-sharing, and
+- demo.mp4 as reference.
+- narration.
+- screen-sharing.
 - presence of all members.
 
-2. Report pdf -> features, functions, and UI.
+## Report pdf:
+
+- features
+- functions
+- UI
