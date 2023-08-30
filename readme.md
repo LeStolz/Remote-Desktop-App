@@ -33,14 +33,14 @@ python "server/main.py"
 
 # Todo
 
-## Demo video:
+## Demo video
 
 - demo.mp4 as reference.
 - narration.
 - screen-sharing.
 - presence of all members.
 
-## Report pdf:
+## Report PDF
 
 - features
 - functions
