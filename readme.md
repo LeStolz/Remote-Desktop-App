@@ -17,15 +17,13 @@ pip install -r requirements.txt
 ## Client
 
 ```console
-cd client
-python "main.py"
+python "client/main.py"
 ```
 
 ## Server
 
 ```console
-cd server
-python "main.py"
+python "server/main.py"
 ```
 
 ### Note
