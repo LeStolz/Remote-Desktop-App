@@ -30,18 +30,3 @@ python "server/main.py"
 
 - The server should be run with admin privileges.
 - The computer running the server should have its firewall disabled.
-
-# Todo
-
-## Demo video
-
-- demo.mp4 as reference.
-- narration.
-- screen-sharing.
-- presence of all members.
-
-## Report PDF
-
-- features
-- functions
-- UI
